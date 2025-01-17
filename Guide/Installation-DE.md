@@ -6,15 +6,15 @@
 - Vor dem Einsatz von Opnsense muss zunächst festgelegt werden, wie das Netzwerk aufgebaut ist und wo sich die Firewall in diesem Netzwerk befindet.
 - Diese Referenzimplementierung verwendet die folgende Netzwerktopologie:
 
-![Network Topology](https://github.com/cryptocean22/forschungsprojekt/blob/main/Guide/pictures/network-topology.png?raw=true)
+![Network Topology](https://github.com/A-Ozan/research-project/blob/main/Guide/pictures/network-topology.png?raw=true)
 
 
 ## Schritt 2 - Opnsense Implementierung bestimmen 
 - Vor der Installation von Opnsense muss festgelegt werden, wie Opnsense installiert und betrieben werden soll.
 - In dieser Referenzimplementierung verwenden wir eine geeignete [Hardware](https://www.amazon.de/gp/product/B09QM69CJ8/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&th=1), um Opnsense zu installieren. 
 
-![Hardware for Firewall](https://github.com/cryptocean22/forschungsprojekt/blob/main/Guide/pictures/firewall1.png?raw=true)
-![Hardware for Firewall 2](https://github.com/cryptocean22/forschungsprojekt/blob/main/Guide/pictures/firewall2.png?raw=true)
+![Hardware for Firewall](https://github.com/A-Ozan/research-project/blob/main/Guide/pictures/firewall1.png?raw=true)
+![Hardware for Firewall 2](https://github.com/A-Ozan/research-project/blob/main/Guide/pictures/firewall2.png?raw=true)
 
 ## Schritt 3 - Opnsense Installations-Stick erstellen
 - Wir können die [offizielle Anleitung](https://docs.opnsense.org/manual/install.html) als Orientierung verwenden
