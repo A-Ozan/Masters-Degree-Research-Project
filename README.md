@@ -1,5 +1,5 @@
 # Masters-Degree-Research-Project
-This is the official repository of [my](www.linkedin.com/in/ozan-a-96596b309) Masters research project and those of my colleagues, [Oliver B.](https://www.linkedin.com/in/olivermbu/) and [Florian K.](https://www.linkedin.com/in/florian-kohn/).
+This is the official repository of [my](https://www.linkedin.com/in/ozan-a-96596b309) Masters research project and those of my colleagues, [Oliver B.](https://www.linkedin.com/in/olivermbu/) and [Florian K.](https://www.linkedin.com/in/florian-kohn/).
 
 This project is concerned with the implementation of a holistic cyber security monitoring tool using various security technologies so that micro-enterprises can monitor their network with as little effort and at low cost as possible. The security technologies used are:
 
