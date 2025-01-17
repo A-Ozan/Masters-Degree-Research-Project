@@ -12,3 +12,17 @@ This project is concerned with the implementation of a holistic cyber security m
 | [Kibana](https://www.elastic.co/de/kibana)        | A visualisation tool for Elasticsearch that creates dashboards and visualises data in real time. | 
 
 ---
+**Agent Security Events**
+![](https://raw.githubusercontent.com/A-Ozan/Masters-Degree-Research-Project/refs/heads/main/pictures/security-events.jpeg)
+
+**Agent Metrics**
+![](https://raw.githubusercontent.com/A-Ozan/Masters-Degree-Research-Project/refs/heads/main/pictures/metrics.jpeg)
+
+**Agent Details**
+![](https://raw.githubusercontent.com/A-Ozan/Masters-Degree-Research-Project/refs/heads/main/pictures/host-details.jpg)
+
+**Agent Details**
+![](https://raw.githubusercontent.com/A-Ozan/Masters-Degree-Research-Project/refs/heads/main/pictures/wazuh-agent.jpeg)
+
+**OPNsense Dashboard**
+![](https://raw.githubusercontent.com/A-Ozan/Masters-Degree-Research-Project/refs/heads/main/pictures/opnsensedashboard.png)
